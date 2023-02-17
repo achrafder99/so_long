@@ -9,7 +9,7 @@ The map has to be constructed with 3 components: walls, collectibles, and free s
 Installation
 To install So Long, follow these steps:
 
-Clone the repository:git clone https://github.com/your-username/so_long.git
+Clone the repository:git clone https://github.com/achrafder99/so_long.git
 Change into the project directory:cd so_long
 Build the project:
 make
